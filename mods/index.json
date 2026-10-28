@@ -1,31 +1,5 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-28T16:27:39.315Z",
-  "mods": [
-    {
-      "slug": "krone-testmod",
-      "name": "Krone Testmod",
-      "description": "Nur ein Test – wird gleich wieder entfernt.",
-      "icon": "mods/krone-testmod/icon.png",
-      "createdAt": "2026-10-28T16:27:39.315Z",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "minecraft": [
-            "1.21.11"
-          ],
-          "loader": "fabric",
-          "side": "client",
-          "changelog": "Test",
-          "dependencies": [],
-          "file": "mods/krone-testmod/0.0.1/krone-testmod-0.0.1.jar",
-          "fileName": "krone-testmod-0.0.1.jar",
-          "sha512": "6645306eed90a4114e9dd4e7e99a24976b9393fb26af6a09611d0ed8fbcf34ba872ecb6e9e8f28ce6b3fd611928eb061768c14ff5f2acc8ba9d688f3973c378d",
-          "size": 266,
-          "publishedAt": "2026-10-28T16:27:39.315Z"
-        }
-      ],
-      "updatedAt": "2026-10-28T16:27:39.315Z"
-    }
-  ]
+  "updatedAt": "2026-10-28T16:28:37.030Z",
+  "mods": []
 }
