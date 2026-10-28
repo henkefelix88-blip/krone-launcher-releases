@@ -1,0 +1,1 @@
+# krone-launcher-releases
