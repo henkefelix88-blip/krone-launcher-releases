@@ -1,5 +1,38 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-28T16:28:37.030Z",
-  "mods": []
+  "updatedAt": "2026-10-30T20:24:38.193Z",
+  "mods": [
+    {
+      "slug": "5-gems-mod-v1-0-0",
+      "name": "5-gems mod v1.0.0",
+      "description": "This is an example description! Tell everyone what your mod is about!",
+      "body": "",
+      "icon": null,
+      "createdAt": "2026-10-30T20:24:38.193Z",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minecraft": [
+            "1.21.11"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "releaseType": "beta",
+          "side": "server",
+          "changelog": "",
+          "deps": [],
+          "file": "mods/5-gems-mod-v1-0-0/1.0.0/five-gems-mod-1.0.0_2_.jar",
+          "fileName": "five-gems-mod-1.0.0_2_.jar",
+          "sha512": "ba0fa0b5c3253515e45cffdba6941ce0fe6d2dc2108d45caa480640f461b42646a6d95d227eae6d69f764867c866dd6cdee380a8faf5514fced6b05dc2e207cd",
+          "sha256": "b815343f0433171e1ebe4ab0eefb2ab1c87534e0018cad4c8a214fa59636d55e",
+          "size": 656490,
+          "publishedAt": "2026-10-30T20:24:38.193Z",
+          "loader": "fabric",
+          "dependencies": []
+        }
+      ],
+      "updatedAt": "2026-10-30T20:24:38.193Z"
+    }
+  ]
 }
