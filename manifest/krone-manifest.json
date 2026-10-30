@@ -1,0 +1,122 @@
+{
+  "manifestVersion": 8,
+  "createdAt": "2026-10-30T19:27:51.723Z",
+  "note": "Krone Client 1.0.0 + Pflicht-Mods für 1.21.11",
+  "required": false,
+  "profiles": [
+    {
+      "key": "1.21.11|fabric",
+      "minecraft": "1.21.11",
+      "loader": "fabric",
+      "krone": {
+        "modId": "krone-client",
+        "version": "1.0.0",
+        "fileName": "krone-client-1.0.0.jar",
+        "url": "https://raw.githubusercontent.com/henkefelix88-blip/krone-launcher-releases/main/manifest/jars/75b7c39401736606/krone-client-1.0.0.jar",
+        "sha512": "75b7c39401736606b12af5433d5eab2dc7af2291f0c7b8fedf35b53f92d96e9c67bbc79f2860d2cb280548f1d1d5ee53550d1de11681fc741bf41f8b073d7273"
+      },
+      "extras": [],
+      "mods": [
+        {
+          "projectId": "P7dR8mSH",
+          "versionId": "6qAuTtLR",
+          "title": "Fabric API",
+          "version": "0.141.6+1.21.11",
+          "fileName": "fabric-api-0.141.6+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
+          "sha512": "852d3682c4f353fd0ca86546af8578513e8bcf628377fa9d49c556bc59c5024c69ab56c92fc6dfba11fed19e4316a3f5636e7e07fd3d96f7043b531aef59b637",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "AANobbMI",
+          "versionId": "rkdTcxoT",
+          "title": "Sodium",
+          "version": "mc1.21.11-0.8.14-fabric",
+          "fileName": "sodium-fabric-0.8.14+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
+          "sha512": "04c43f9e8534b87a52c42ffd51b0e344d4ef92dc9cc52da33d13af6a18bf74b05380d2027f1e0db982698d0aff274c42741c1e21b313b0cd75ed3af005fc98d9",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "gvQqBUqZ",
+          "versionId": "Ow7wA0kG",
+          "title": "Lithium",
+          "version": "mc1.21.11-0.21.4-fabric",
+          "fileName": "lithium-fabric-0.21.4+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+          "sha512": "f14a5c3d2fad786347ca25083f902139694f618b7c103947f2fd067a7c5ee88a63e1ef8926f7d693ea79ed7d00f57317bae77ef9c2d630bf5ed01ac97a752b94",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "uXXizFIs",
+          "versionId": "Ii0gP3D8",
+          "title": "FerriteCore",
+          "version": "8.2.0-fabric",
+          "fileName": "ferritecore-8.2.0-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
+          "sha512": "3210926a82eb32efd9bcebabe2f6c053daf5c4337eebc6d5bacba96d283510afbde646e7e195751de795ec70a2ea44fef77cb54bf22c8e57bb832d6217418869",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "qQyHxfxd",
+          "versionId": "rhykGstm",
+          "title": "No Chat Reports",
+          "version": "Fabric-1.21.11-v2.18.0",
+          "fileName": "NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+          "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/rhykGstm/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+          "sha512": "d2c35cc8d624616f441665aff67c0e366e4101dba243bad25ed3518170942c1a3c1a477b28805cd1a36c44513693b1c55e76bea627d3fced13927a3d67022ccc",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "Q2OqKxDG",
+          "versionId": "8im6QWDT",
+          "title": "Better Advancements",
+          "version": "0.4.8.54",
+          "fileName": "BetterAdvancements-Fabric-1.21.11-0.4.8.54.jar",
+          "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/8im6QWDT/BetterAdvancements-Fabric-1.21.11-0.4.8.54.jar",
+          "sha512": "101a4ce5b6713058612ea63819667d4d5918bd8bc0af678ce356cb7a6974fdefef358cbbb8ff3e3c04e606b9341013a8c486947ab13692eff29237ff6f0ab6bc",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "k2ZPuTBm",
+          "versionId": "oA7G5vf1",
+          "title": "Essential Mod",
+          "version": "1.5.1",
+          "fileName": "Essential_1-5-1_fabric_1-21-11.jar",
+          "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/oA7G5vf1/Essential_1-5-1_fabric_1-21-11.jar",
+          "sha512": "880ff999837b10bed2c492dbcbfc353588754c2dcf75c79a560977ebc93f74131c41d2b0a7dce3e49cc1f2012bc67a1d4f2765a600e9b395c538dcc2bbdd9418",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "x1hIzbuY",
+          "versionId": "ip2tVKLp",
+          "title": "FastQuit",
+          "version": "3.1.3+mc1.21.11",
+          "fileName": "fastquit-3.1.3+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/x1hIzbuY/versions/ip2tVKLp/fastquit-3.1.3%2Bmc1.21.11.jar",
+          "sha512": "29f080e82b58833cc2bb6af677c7b49825dbfeee8340d6952aadacbf83a3f5cdb71e2d1145b0e60f7454274577930c3600f3fe8a6f95cb5a423fa6f80d409a01",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "9s6osm5g",
+          "versionId": "xuX40TN5",
+          "title": "Cloth Config API",
+          "version": "21.11.153+fabric",
+          "fileName": "cloth-config-21.11.153-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+          "sha512": "8f455489d4b71069e998568cf4e1450116f4360a4eb481cd89117f629c6883164886cf63ca08ac4fc929dd13d1112152755a6216d4a1498ee6406ef102093e51",
+          "enabled": true,
+          "mode": "latest"
+        }
+      ]
+    }
+  ]
+}
