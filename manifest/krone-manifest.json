@@ -1,6 +1,6 @@
 {
-  "manifestVersion": 9,
-  "createdAt": "2026-10-30T20:35:30.239Z",
+  "manifestVersion": 10,
+  "createdAt": "2026-10-30T20:46:51.166Z",
   "note": "",
   "required": false,
   "profiles": [
@@ -113,6 +113,28 @@
           "fileName": "cloth-config-21.11.153-fabric.jar",
           "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
           "sha512": "8f455489d4b71069e998568cf4e1450116f4360a4eb481cd89117f629c6883164886cf63ca08ac4fc929dd13d1112152755a6216d4a1498ee6406ef102093e51",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "aC3cM3Vq",
+          "versionId": "i1duwnJl",
+          "title": "Mouse Tweaks",
+          "version": "1.21.11-2.30-fabric",
+          "fileName": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+          "sha512": "bc2202d067f997a191d6e435d326e12cc5756b72c076e0e342e9f3119dbeb29de7b77fac62d8b48a60e657c79e35bc7e248df969d43f9b5e53492f7890fc2b9c",
+          "enabled": true,
+          "mode": "latest"
+        },
+        {
+          "projectId": "9mtu0sUO",
+          "versionId": "d92wadxK",
+          "title": "Fast IP Ping",
+          "version": "v1.0.12-mc1.21.11-fabric",
+          "fileName": "fast-ip-ping-v1.0.12-mc1.21.11-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/d92wadxK/fast-ip-ping-v1.0.12-mc1.21.11-fabric.jar",
+          "sha512": "965b6d26c426550951e071679b58f09fed9b8ff68e6d38b3b867477c080009d1f2bbbe909ae47457a55377ae1b8f12e860650b2fd22728eb603e309a38126a0c",
           "enabled": true,
           "mode": "latest"
         }
