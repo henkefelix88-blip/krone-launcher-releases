@@ -1,7 +1,7 @@
 {
-  "manifestVersion": 8,
-  "createdAt": "2026-10-30T19:27:51.723Z",
-  "note": "Krone Client 1.0.0 + Pflicht-Mods für 1.21.11",
+  "manifestVersion": 9,
+  "createdAt": "2026-10-30T20:35:30.239Z",
+  "note": "",
   "required": false,
   "profiles": [
     {
@@ -10,10 +10,10 @@
       "loader": "fabric",
       "krone": {
         "modId": "krone-client",
-        "version": "1.0.0",
-        "fileName": "krone-client-1.0.0.jar",
-        "url": "https://raw.githubusercontent.com/henkefelix88-blip/krone-launcher-releases/main/manifest/jars/75b7c39401736606/krone-client-1.0.0.jar",
-        "sha512": "75b7c39401736606b12af5433d5eab2dc7af2291f0c7b8fedf35b53f92d96e9c67bbc79f2860d2cb280548f1d1d5ee53550d1de11681fc741bf41f8b073d7273"
+        "version": "1.0.2",
+        "fileName": "krone-client-1.0.2.jar",
+        "url": "https://raw.githubusercontent.com/henkefelix88-blip/krone-launcher-releases/main/manifest/jars/56888fa010c9e835/krone-client-1.0.2.jar",
+        "sha512": "56888fa010c9e835e24f5807407f7f387c7bcfb4681d6bac39118d22a286fc8e07759df5f040134a5e1b3c132e26ba6f6dfe97339b12244dbc9ec117eff57c09"
       },
       "extras": [],
       "mods": [
