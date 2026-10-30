@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-30T20:24:38.193Z",
+  "updatedAt": "2026-10-30T21:08:28.560Z",
   "mods": [
     {
       "slug": "5-gems-mod-v1-0-0",
@@ -10,6 +10,27 @@
       "icon": null,
       "createdAt": "2026-10-30T20:24:38.193Z",
       "versions": [
+        {
+          "version": "1.0.1",
+          "minecraft": [
+            "1.21.11"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "releaseType": "alpha",
+          "side": "server",
+          "changelog": "GHG",
+          "deps": [],
+          "file": "mods/5-gems-mod-v1-0-0/1.0.1/gems_mod_v2.jar",
+          "fileName": "gems_mod_v2.jar",
+          "sha512": "5ac4d9f45adc1be9854cd1cea6d23af1ec50fcaec39dad24868990157dc9b91319e47b9ee1a03c73cac67150f4800d943b5857bc01c3f8b08bce70870e9e7d27",
+          "sha256": "9d8fd4eb6fe5cc671973b5750ed492e4c7e24b14167911a08299c4731f70a10c",
+          "size": 658444,
+          "publishedAt": "2026-10-30T21:08:28.560Z",
+          "loader": "fabric",
+          "dependencies": []
+        },
         {
           "version": "1.0.0",
           "minecraft": [
@@ -32,7 +53,7 @@
           "dependencies": []
         }
       ],
-      "updatedAt": "2026-10-30T20:24:38.193Z"
+      "updatedAt": "2026-10-30T21:08:28.560Z"
     }
   ]
 }
